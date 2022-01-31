@@ -1,0 +1,9 @@
+# Analista de Sistemas
+
+Um Analista de Sistemas, também conhecido como analista de tecnologia de negócios, é um profissional de tecnologia da informação(TI) especialisado em analisar, projetar e implementar sistemas de informação. Os analistas de sistemas avaliam a adequação dos sistemas de informação em termos de seus resultados pretendidos e fazem a ligação com os usuários finais, fornecedores de software e programadoress para atingir seus resultados. Um analista de sistemas é uma pessoa que usa tecnicas de analise e design para resolver porblemas de negócios usando tecnologias da informaçõa. Os analista de sistemas podem servir como agentes de mudança que implementam as melhorias organizacionais, porjetam sistemas para implementar essas mudanças e trainar e motivar outras pessoas a usar sistemas.
+
+Embora possam esta familiarizados com uma variedade de linguagens de programação, sistemas operacionais e plataformas de hardware de computador, eles normalmente não se envolvem no desenvolvimento real de hardware ou software. Eles podem ser responsáveis pelo desenvolvimento de analises de custos, coniderações de design, melhoria do impacto na equipe e cronogramas de implemntação.
+
+Um analista de sistemas normalmente está confinado a um determinado sistema ou atributo e geralamente trabalhará em conjunto com um analista de negócios. essas funções, embora tenham alguma sobreposição, não são as mesmas. Um analista de negocios, avaliara a necessidade do negocio e identificar a solução apropriada e ate certo pontoprjetara uma solução sem mergulra nuito fundoem seus componentes tecnicos, contado com um analista de sistemas para falo. Uma analista de sistemas frequantimente avalisrá e monitorara e modificara o codigo bem como revisara os scripts.
+
+Alguns profissionais excutama s mesmas especifições.
