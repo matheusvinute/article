@@ -1,3 +1,5 @@
+# Explicando Reactjs ⚛️
+
 O React foi criado pelo Engenheiro do Facebook Jordan Walker, no principio foi chamado de FaxJSV e era utilizado apenas internamente nos projetos da propria empresa como o Facebook e no Instagram. Na JsConfUS em 2013 ja com o nome de React o projeto foi anunciado como open source, desde então o React é uma das principais ferramentas de desenvolvimento Front-End.
 
 Em resumo o React é declarativo e eficiente. Ele permite compor UIs completos de pequenos e isolados códigos, os chamados Componentes. Ele também é flexível, ou seja, é possível utilizar React em uma pequenas parte do site com algumas linhas de código e nenhuma ferramenta de Build, ou em projetos mais completos, como na criação de um Sigle-Page App nesse caso sim utilizando de algumas outras ferramentas que facilitam e agilizam o trabalho dos desenvolvedores com essa lib.
