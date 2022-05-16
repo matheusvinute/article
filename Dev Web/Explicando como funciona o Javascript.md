@@ -1,4 +1,4 @@
-# Explicando Javascript
+# Explicando Javascript 🧑‍💻
 
 Javascript é um codinome para a implementação do ECMAscript, ela é hoje uma das linguagens de programação mais utilizadas no mundo e mesmo os que não gostam muito dela acabam tendo que aprender e codar.
 
