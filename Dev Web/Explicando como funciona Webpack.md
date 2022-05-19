@@ -27,3 +27,7 @@ Output, que indica o caminho de saida do Bundle criado.
 Loaders, que ajudam ao Webpack a processar outros tipos de arquivo e cnvertelos para modulos que possam ser consumidos na aplicação, incluindo na arvore de depencias.
 
 O Webpack só consegui entender fora do ambiente dois tipos de arquivo o Javascript e o Json, dendo dois atributos o teste e o use.
+
+-----------------------------
+
+Webpack - vai conter um séria de configurações, chamado de loaders, que vai ensinar para aplicação como ela deve tratar cada tipo de arquivi, .js, sass, less, .png, .jpg. Com isso o webpack vai pegar esses arquivos e vai converter em arquivos que são entendiveis para o navergador, fazendo suas conversões.
