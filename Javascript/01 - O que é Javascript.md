@@ -51,6 +51,8 @@ Módulos - permitem criar codigos como funções, classes ou até mesmo variáve
 
 Promisse - é a capacidade de executar scripts em uma thread em background da thread principal. Em outras palavras, é executar mais de uma thread, sob a thread principal, sem prejudicar seu desempenho.
 
+  {
+
   function somaNumero(){
     const resultado = 1 + 1;
 
@@ -70,3 +72,4 @@ Promisse - é a capacidade de executar scripts em uma thread em background da th
   }
 
   somaNumero();
+  }
