@@ -14,7 +14,8 @@ A espeficação ECMA do Javascript atual é o ES6. Possuindo as melhorias como:
 
 Ela é uma propriedade que torna possivel desestruturar valores de arrays ou propriedades de objetos em variáveis distintas, no caso dos objetos possui o rest operator(...rest), que armazenas todas as demais propriedade em um unico lugar.
 
-
+  ✍️
+  
   const supermercado = ['arroz', 'feijão', 'carne'];
    const [arroz, feijão] = supermercado;
    
@@ -41,7 +42,8 @@ Ela é uma propriedade que torna possivel desestruturar valores de arrays ou pro
 
 Permitem criar codigos como funções, classes ou até mesmo variáveis que possam ser importados em outros arquivos, o que permite dividir ainda mais as funcionalidades nos codigos.
 
-
+  ✍️
+  
   //arquivoextra.js
   const testeModulo = () => Este é um exemplo de funcionamento de Modulos";
   
@@ -57,6 +59,8 @@ Permitem criar codigos como funções, classes ou até mesmo variáveis que poss
 
 E a capacidade de executar scripts em uma thread em background da thread principal. Em outras palavras, é executar mais de uma thread, sob a thread principal, sem prejudicar seu desempenho.
 
+  ✍️
+  
   function somaNumero(){
     const resultado = 1 + 1;
 
