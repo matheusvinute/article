@@ -10,7 +10,9 @@ Javascript hoje é uma liguagem multi paradigma com recursos para orientação a
 
 A espeficação ECMA do Javascript atual é o ES6. Possuindo as melhorias como:
 
-## `Desestrutucação` - ela é uma propriedade que torna possivel desestruturar valores de arrays ou propriedades de objetos em variáveis distintas, no caso dos objetos possui o rest operator(...rest), que armazenas todas as demais propriedade em um unico lugar.
+## `Desestrutucação`
+
+Ela é uma propriedade que torna possivel desestruturar valores de arrays ou propriedades de objetos em variáveis distintas, no caso dos objetos possui o rest operator(...rest), que armazenas todas as demais propriedade em um unico lugar.
 
 
   const supermercado = ['arroz', 'feijão', 'carne'];
@@ -35,7 +37,9 @@ A espeficação ECMA do Javascript atual é o ES6. Possuindo as melhorias como:
    console.log(turma); // A
 
 
-## `Módulos` - permitem criar codigos como funções, classes ou até mesmo variáveis que possam ser importados em outros arquivos, o que permite dividir ainda mais as funcionalidades nos codigos.
+## `Módulos`
+
+Permitem criar codigos como funções, classes ou até mesmo variáveis que possam ser importados em outros arquivos, o que permite dividir ainda mais as funcionalidades nos codigos.
 
 
   //arquivoextra.js
@@ -49,7 +53,9 @@ A espeficação ECMA do Javascript atual é o ES6. Possuindo as melhorias como:
   console.log(texteModulo());
 
 
-## `Promisse` - é a capacidade de executar scripts em uma thread em background da thread principal. Em outras palavras, é executar mais de uma thread, sob a thread principal, sem prejudicar seu desempenho.
+## `Promisse`
+
+E a capacidade de executar scripts em uma thread em background da thread principal. Em outras palavras, é executar mais de uma thread, sob a thread principal, sem prejudicar seu desempenho.
 
   function somaNumero(){
     const resultado = 1 + 1;
