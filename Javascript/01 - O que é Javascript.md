@@ -13,7 +13,7 @@ A espeficação ECMA do Javascript atual é o ES6. Possuindo as melhorias como:
 Desestrutucação - ela é uma propriedade que torna possivel desestruturar valores de arrays ou propriedades de objetos em variáveis distintas, no caso dos objetos possui o rest operator(...rest), que armazenas todas as demais propriedade em um unico lugar.
 
 
-   const supermercado = ['arroz', 'feijão', 'carne'];
+  `const supermercado = ['arroz', 'feijão', 'carne'];
    const [arroz, feijão] = supermercado;
    
    console.log(arroz)
@@ -32,7 +32,7 @@ Desestrutucação - ela é uma propriedade que torna possivel desestruturar valo
    
    console.log(nome); //Matheus
    console.log(escola); //Escola Municipal
-   console.log(turma); // A
+   console.log(turma); // A `
 
 
 Módulos - permitem criar codigos como funções, classes ou até mesmo variáveis que possam ser importados em outros arquivos, o que permite dividir ainda mais as funcionalidades nos codigos.
