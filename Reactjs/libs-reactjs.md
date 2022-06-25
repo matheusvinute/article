@@ -13,3 +13,37 @@ Vantagens de usar o Axios:
 1-Suporte encadeamento de stylos, como como sass.
 
 2-Estiliza o componente utilizando o javascript aplicando somente no componente em especifico sua propriedades.
+
+## Miragejs 🔃
+
+Permite criar uma API Fake dentro do nosso Front End. Suas vantagens:
+
+1- Tem Banco de dados integrandos
+
+2- Relationships
+
+3- Permite configurações que simula um backend de serviço propriamente dito
+
+### Explo de Código
+
+`
+import {createServer} from 'miragejs';
+
+createServer({
+  routes(){
+    this.namespace = "api";
+
+    this.get('/transactions', () => {
+      return [
+        {
+          id: 1,
+          title: "Transação 1",
+          amount: 400,
+          category: "Food",
+          createdAt: new Date()
+        }
+      ]
+    })
+  }
+})
+`
