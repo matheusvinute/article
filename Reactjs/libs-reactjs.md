@@ -1,4 +1,4 @@
-## Axios
+## Axios 🕸️
 
 lib que faz a interceptação de requisições e resposta, criando uma regra quando for feito uma requisição antes de chegar no backend da aplicação, como token de autenticação ou informação especifica ou em resposta, para fazer logout de acasso.
 
@@ -8,7 +8,7 @@ Vantagens de usar o Axios:
 
 2-Adaptação para json, com axios o retorno do servidor já vem formando em json, graças ao axios.
 
-## Styled Components 
+## Styled Components 🖊️
 
 1-Suporte encadeamento de stylos, como como sass.
 
