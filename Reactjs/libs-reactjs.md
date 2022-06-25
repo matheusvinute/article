@@ -22,7 +22,9 @@ Permite criar uma API Fake dentro do nosso Front End. Suas vantagens:
 
 2- Relationships
 
-3- Permite configurações que simula um backend de serviço propriamente dito
+3- Permite configurações que simulam um backend de serviço propriamente dito
+
+4- Pode ser executado em paralelo ao funcionamento do Front End
 
 ### Explo de Código
 
