@@ -16,3 +16,12 @@ codigo em determinada circusntancia. Possui dois parametros:
 useContext - hook para repasse de dados que são mais complexas ou
 que seu repasse indpenda de elevação de dados, independa de acesso
 de um componente superior.
+
+Suas partes de concionamento são:
+
+1- .Provider, . Consumer
+
+2- Arquivo de criação de contexto
+import {createContext} from 'react';
+
+export const TransactionContext = createContext();
