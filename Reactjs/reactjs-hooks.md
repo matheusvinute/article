@@ -26,3 +26,6 @@ Suas partes de concionamento são:
 import {createContext} from 'react';
 
 export const TransactionContext = createContext();
+
+
+(use, state, effect, context)
