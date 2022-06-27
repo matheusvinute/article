@@ -12,3 +12,7 @@ useEffect - hook responsvael por executar o ciclo de vida de um
 codigo em determinada circusntancia. Possui dois parametros:
 () => {} - uma arrow function que executa uma função,
 [] - variavel, que compara o que esta sendo executado
+
+useContext - hook para repasse de dados que são mais complexas ou
+que seu repasse indpenda de elevação de dados, independa de acesso
+de um componente superior.
